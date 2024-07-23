@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(218, 242, 250);
+}
+
+.title {
+    color: rgb(80, 80, 255);
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
