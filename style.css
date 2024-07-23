@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: rgb(218, 242, 250);
 }
@@ -8,3 +9,21 @@ body {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
+=======
+body {
+    background-color: rgba(200, 177, 255, 0.242);
+}
+
+ul.a {
+    list-style-type: triangle;
+}
+
+
+
+.header {
+    color: blue;
+    font-size: 80px;
+    text-align: center; 
+    border-style:double
+}
+>>>>>>> 871f990bcbad128975dde064ee4d4a21a2fe34c8
