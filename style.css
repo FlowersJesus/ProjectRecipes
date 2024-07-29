@@ -1,16 +1,44 @@
+*{
+Margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+text-align: center;
+}
+
 body {
-    background-color: rgba(200, 177, 255, 0.242);
+    background-color:rgba(214, 244, 254, 0.804);
+}
+/* text below controls all links, how to choose seperate links*/
+a{
+    font-size: 18px;
+    color:darkcyan;
+    
+}
+.chickenkatsu{
+    border-style: ridge;
+
+}
+    
+
+
+/* do these lists do anything*/
+list1{
+   align-items: center;
 }
 
-ul.a {
-    list-style-type: triangle;
-}
-
-
+/*do these lists do anything*/
 
 .header {
-    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: cornflowerblue;
     font-size: 80px;
-    text-align: center; 
-    border-style:double
+    border-style: double;   
+}
+
+.ingredientsbox {
+    padding: 10px;
+    margin: 10px;
+    border: 10px;
+    border-style: ridge;
 }
