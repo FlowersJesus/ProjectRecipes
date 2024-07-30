@@ -1,13 +1,9 @@
-<<<<<<< HEAD
 *{
 Margin: 0px;
 padding: 0px;
 box-sizing: border-box;
 text-align: center;
 }
-
-=======
-<<<<<<< HEAD
 body {
     background-color: rgb(218, 242, 250);
 }
@@ -18,8 +14,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
-=======
->>>>>>> ab2ac83a864b2fb70bd0af357fe836fcaca6e56e
+
 body {
     background-color:rgba(214, 244, 254, 0.804);
 }
@@ -31,9 +26,9 @@ a{
 }
 .chickenkatsu{
     border-style: ridge;
-
 }
-    
+.chefcat
+
 
 
 /* do these lists do anything*/
@@ -48,7 +43,6 @@ list1{
     text-align: center;
     color: cornflowerblue;
     font-size: 80px;
-<<<<<<< HEAD
     border-style: double;   
 }
 
@@ -58,9 +52,4 @@ list1{
     border: 10px;
     border-style: ridge;
 }
-=======
-    text-align: center; 
-    border-style:double
-}
->>>>>>> 871f990bcbad128975dde064ee4d4a21a2fe34c8
->>>>>>> ab2ac83a864b2fb70bd0af357fe836fcaca6e56e
+
